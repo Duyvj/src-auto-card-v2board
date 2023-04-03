@@ -7,7 +7,7 @@ Hỗ trợ tích hợp thanh toán bằng thẻ cào cho v2board
 
 Tích hợp cho xflash( data vpn) 
 
-DEMO: ![image](https://user-images.githubusercontent.com/92286505/229547705-5680c441-fd04-4c03-a3e4-727d1de9a765.png)
+DEMO: ![image](https://user-images.githubusercontent.com/92286505/229548195-2884b0cf-573a-4c13-b1ec-a31cbff18619.png)
 
 
 
