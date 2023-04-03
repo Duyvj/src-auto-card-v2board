@@ -1,4 +1,6 @@
-# src-auto-card-v2board
+# Hướng dẫn tích hợp thanh toán bằng thẻ cào cho v2board
+
+#Src auto card v2board
 
 Hỗ trợ tích hợp thanh toán bằng thẻ cào cho v2board 
 
